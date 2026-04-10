@@ -8,7 +8,7 @@ from sentence_transformers import SentenceTransformer
 from openai import OpenAI  
 PDF_FILES = [
     "file1.pdf",
-    "file2.pdf",
+    "file2 (2).pdf",
     "file3.pdf"
 ] 
 
