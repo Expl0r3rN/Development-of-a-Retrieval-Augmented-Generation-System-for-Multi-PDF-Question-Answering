@@ -1,0 +1,2 @@
+# Development-of-a-Retrieval-Augmented-Generation-System-for-Multi-PDF-Question-Answering
+This project is a multi-PDF RAG application that allows users to ask questions about uploaded documents. It uses embeddings for semantic retrieval, selects the most relevant text passages, and generates context-based answers using large language models. It also evaluates and compares answers produced by different AI models.
