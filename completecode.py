@@ -7,7 +7,7 @@ from pinecone import Pinecone, ServerlessSpec
 from sentence_transformers import SentenceTransformer 
 from openai import OpenAI  
 PDF_FILES = [
-    "optimus-tesla.pdf",
+    "file1.pdf",
     "file2.pdf",
     "file3.pdf"
 ] 
